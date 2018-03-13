@@ -6,7 +6,7 @@
   <groupId>com.technet.app</groupId>
   <artifactId>demo</artifactId>
   <packaging>jar</packaging>
-  <version>1.5-SNAPSHOT</version>
+  <version>1.0.0-SNAPSHOT</version>
   <name>demo</name>
   <url>http://maven.apache.org</url>
 
